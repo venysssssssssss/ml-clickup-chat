@@ -12,6 +12,8 @@ uvicorn = "^0.30.1"
 blue = "^0.9.1"
 isort = "^5.13.2"
 extract-msg = "^0.48.7"
+requests = "^2.32.3"
+fastapi = "^0.111.1"
 
 
 [build-system]
